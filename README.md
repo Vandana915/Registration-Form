@@ -2,7 +2,8 @@
 This is a Registration form build by using HTML and CSS 
 
 ## Screenshot
-![registration](https://github.com/Vandana915/RegistrationForm/assets/124566666/318364e6-594b-49ec-b272-3d3d9265377a)
+![Registrationpage](https://github.com/Vandana915/Registration-Form/assets/124566666/dad5014a-fcc5-49e3-b6f4-b6f8c62bfad9)
+
 This is a simple website that use HTML forms to collect information from people who visit my webpags.
 
 
